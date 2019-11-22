@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "4e8a0da6-3657-4c2b-b3a4-ce1a307a9eaa",
+		"name": "gy_api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://www.baidu.com",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.baidu.com",
+					"protocol": "https",
+					"host": [
+						"www",
+						"baidu",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
